@@ -1,0 +1,51 @@
+.bkg{
+    background-color: #ccc;
+    width: 100%;
+}
+
+table{
+    border-collapse: separate;
+}
+h1 {
+    text-align: left;
+    color: blue;
+    font-size: 30px;
+    padding: 10px;
+    font-weight: bold;
+}
+
+
+th, td {
+    padding-top: 30px;
+    padding-bottom: 30px;
+    padding-left: 15px;
+    padding-right: 15px;
+    text-align: left;
+    background-color: white;
+    border: blue dotted;
+    border-width: 1px;
+    vertical-align: top;
+    
+}
+
+a{
+    color: purple;
+}
+h3{
+    color: black;
+    margin: 0;
+}
+.left{
+    width: 30%;
+}
+.center{
+    width: 50%;
+}
+.right{
+    width: 20%;
+}
+
+.center-text{
+    text-align: center;
+    padding: 20px;
+}
